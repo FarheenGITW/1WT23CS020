@@ -1,3 +1,5 @@
 Title : Miss
 Name : farheen firdous
 USN : 1WT23CS020 
+Sem: 3rd
+Sec : B
